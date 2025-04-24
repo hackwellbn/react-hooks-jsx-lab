@@ -1,6 +1,6 @@
 // src/components/About.js
 import React from "react";
-import { image } from "../data/data"; // Make sure this file exports an image variable
+import { image } from "../data/data"; 
 
 function About() {
   return (
